@@ -1,0 +1,14 @@
+C:\kurssit\Algoritmit1\demot\d3_binaaripuu\bin\Debug\net8.0\d3_binaaripuu.exe
+C:\kurssit\Algoritmit1\demot\d3_binaaripuu\bin\Debug\net8.0\d3_binaaripuu.deps.json
+C:\kurssit\Algoritmit1\demot\d3_binaaripuu\bin\Debug\net8.0\d3_binaaripuu.runtimeconfig.json
+C:\kurssit\Algoritmit1\demot\d3_binaaripuu\bin\Debug\net8.0\d3_binaaripuu.dll
+C:\kurssit\Algoritmit1\demot\d3_binaaripuu\bin\Debug\net8.0\d3_binaaripuu.pdb
+C:\kurssit\Algoritmit1\demot\d3_binaaripuu\obj\Debug\net8.0\d3_binaaripuu.GeneratedMSBuildEditorConfig.editorconfig
+C:\kurssit\Algoritmit1\demot\d3_binaaripuu\obj\Debug\net8.0\d3_binaaripuu.AssemblyInfoInputs.cache
+C:\kurssit\Algoritmit1\demot\d3_binaaripuu\obj\Debug\net8.0\d3_binaaripuu.AssemblyInfo.cs
+C:\kurssit\Algoritmit1\demot\d3_binaaripuu\obj\Debug\net8.0\d3_binaaripuu.csproj.CoreCompileInputs.cache
+C:\kurssit\Algoritmit1\demot\d3_binaaripuu\obj\Debug\net8.0\d3_binaaripuu.dll
+C:\kurssit\Algoritmit1\demot\d3_binaaripuu\obj\Debug\net8.0\refint\d3_binaaripuu.dll
+C:\kurssit\Algoritmit1\demot\d3_binaaripuu\obj\Debug\net8.0\d3_binaaripuu.pdb
+C:\kurssit\Algoritmit1\demot\d3_binaaripuu\obj\Debug\net8.0\d3_binaaripuu.genruntimeconfig.cache
+C:\kurssit\Algoritmit1\demot\d3_binaaripuu\obj\Debug\net8.0\ref\d3_binaaripuu.dll

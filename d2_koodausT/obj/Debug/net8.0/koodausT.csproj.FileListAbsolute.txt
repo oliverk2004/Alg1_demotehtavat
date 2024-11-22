@@ -1,0 +1,14 @@
+C:\kurssit\Algoritmit1\demo_2\koodausT\bin\Debug\net8.0\koodausT.exe
+C:\kurssit\Algoritmit1\demo_2\koodausT\bin\Debug\net8.0\koodausT.deps.json
+C:\kurssit\Algoritmit1\demo_2\koodausT\bin\Debug\net8.0\koodausT.runtimeconfig.json
+C:\kurssit\Algoritmit1\demo_2\koodausT\bin\Debug\net8.0\koodausT.dll
+C:\kurssit\Algoritmit1\demo_2\koodausT\bin\Debug\net8.0\koodausT.pdb
+C:\kurssit\Algoritmit1\demo_2\koodausT\obj\Debug\net8.0\koodausT.GeneratedMSBuildEditorConfig.editorconfig
+C:\kurssit\Algoritmit1\demo_2\koodausT\obj\Debug\net8.0\koodausT.AssemblyInfoInputs.cache
+C:\kurssit\Algoritmit1\demo_2\koodausT\obj\Debug\net8.0\koodausT.AssemblyInfo.cs
+C:\kurssit\Algoritmit1\demo_2\koodausT\obj\Debug\net8.0\koodausT.csproj.CoreCompileInputs.cache
+C:\kurssit\Algoritmit1\demo_2\koodausT\obj\Debug\net8.0\koodausT.dll
+C:\kurssit\Algoritmit1\demo_2\koodausT\obj\Debug\net8.0\refint\koodausT.dll
+C:\kurssit\Algoritmit1\demo_2\koodausT\obj\Debug\net8.0\koodausT.pdb
+C:\kurssit\Algoritmit1\demo_2\koodausT\obj\Debug\net8.0\koodausT.genruntimeconfig.cache
+C:\kurssit\Algoritmit1\demo_2\koodausT\obj\Debug\net8.0\ref\koodausT.dll

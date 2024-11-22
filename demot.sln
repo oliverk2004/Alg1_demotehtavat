@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "d2_koodausT", "d2_koodausT\d2_koodausT.csproj", "{AEE590EB-09A9-4E63-9462-BA7379DDCC6A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "d1_kokonaislukuTaulukko", "d1_kokonaislukuTaulukko\d1_kokonaislukuTaulukko.csproj", "{A6F876E0-0E5F-4E78-9152-FBC73092D69D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "d3_binaaripuu", "d3_binaaripuu\d3_binaaripuu.csproj", "{7A8EA22D-F50D-49DB-A1CB-C0DA3D9514BA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AEE590EB-09A9-4E63-9462-BA7379DDCC6A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AEE590EB-09A9-4E63-9462-BA7379DDCC6A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AEE590EB-09A9-4E63-9462-BA7379DDCC6A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AEE590EB-09A9-4E63-9462-BA7379DDCC6A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A6F876E0-0E5F-4E78-9152-FBC73092D69D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A6F876E0-0E5F-4E78-9152-FBC73092D69D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A6F876E0-0E5F-4E78-9152-FBC73092D69D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A6F876E0-0E5F-4E78-9152-FBC73092D69D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7A8EA22D-F50D-49DB-A1CB-C0DA3D9514BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A8EA22D-F50D-49DB-A1CB-C0DA3D9514BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A8EA22D-F50D-49DB-A1CB-C0DA3D9514BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A8EA22D-F50D-49DB-A1CB-C0DA3D9514BA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
