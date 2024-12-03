@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("d3_binaaripuu")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a467160fd59d0bbf92a5064001b7c6f91962c92c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9ad53397f9e0c8c4e8906df497821e05e2aa3e98")]
 [assembly: System.Reflection.AssemblyProductAttribute("d3_binaaripuu")]
 [assembly: System.Reflection.AssemblyTitleAttribute("d3_binaaripuu")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

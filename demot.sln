@@ -6,6 +6,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "d1_kokonaislukuTaulukko", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "d3_binaaripuu", "d3_binaaripuu\d3_binaaripuu.csproj", "{7A8EA22D-F50D-49DB-A1CB-C0DA3D9514BA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "d4_randomTaulukko", "d4_randomTaulukko\d4_randomTaulukko.csproj", "{C9B3EFFC-225D-4F65-94E0-B10CCE09E620}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -24,5 +26,9 @@ Global
 		{7A8EA22D-F50D-49DB-A1CB-C0DA3D9514BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7A8EA22D-F50D-49DB-A1CB-C0DA3D9514BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7A8EA22D-F50D-49DB-A1CB-C0DA3D9514BA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C9B3EFFC-225D-4F65-94E0-B10CCE09E620}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C9B3EFFC-225D-4F65-94E0-B10CCE09E620}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C9B3EFFC-225D-4F65-94E0-B10CCE09E620}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C9B3EFFC-225D-4F65-94E0-B10CCE09E620}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "d4_randomTaulukko/1.0.0": {
+        "runtime": {
+          "d4_randomTaulukko.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "d4_randomTaulukko/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

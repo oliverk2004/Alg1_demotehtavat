@@ -12,3 +12,4 @@ C:\kurssit\Algoritmit1\demot\d3_binaaripuu\obj\Debug\net8.0\refint\d3_binaaripuu
 C:\kurssit\Algoritmit1\demot\d3_binaaripuu\obj\Debug\net8.0\d3_binaaripuu.pdb
 C:\kurssit\Algoritmit1\demot\d3_binaaripuu\obj\Debug\net8.0\d3_binaaripuu.genruntimeconfig.cache
 C:\kurssit\Algoritmit1\demot\d3_binaaripuu\obj\Debug\net8.0\ref\d3_binaaripuu.dll
+C:\kurssit\Algoritmit1\demot\d3_binaaripuu\obj\Debug\net8.0\d3_binaaripuu.sourcelink.json
