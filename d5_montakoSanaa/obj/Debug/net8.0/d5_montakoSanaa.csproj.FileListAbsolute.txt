@@ -1,0 +1,15 @@
+/media/oliverkanden/Windows/kurssit/Algoritmit1/demot/d5_montakoSanaa/bin/Debug/net8.0/d5_montakoSanaa
+/media/oliverkanden/Windows/kurssit/Algoritmit1/demot/d5_montakoSanaa/bin/Debug/net8.0/d5_montakoSanaa.deps.json
+/media/oliverkanden/Windows/kurssit/Algoritmit1/demot/d5_montakoSanaa/bin/Debug/net8.0/d5_montakoSanaa.runtimeconfig.json
+/media/oliverkanden/Windows/kurssit/Algoritmit1/demot/d5_montakoSanaa/bin/Debug/net8.0/d5_montakoSanaa.dll
+/media/oliverkanden/Windows/kurssit/Algoritmit1/demot/d5_montakoSanaa/bin/Debug/net8.0/d5_montakoSanaa.pdb
+/media/oliverkanden/Windows/kurssit/Algoritmit1/demot/d5_montakoSanaa/obj/Debug/net8.0/d5_montakoSanaa.GeneratedMSBuildEditorConfig.editorconfig
+/media/oliverkanden/Windows/kurssit/Algoritmit1/demot/d5_montakoSanaa/obj/Debug/net8.0/d5_montakoSanaa.AssemblyInfoInputs.cache
+/media/oliverkanden/Windows/kurssit/Algoritmit1/demot/d5_montakoSanaa/obj/Debug/net8.0/d5_montakoSanaa.AssemblyInfo.cs
+/media/oliverkanden/Windows/kurssit/Algoritmit1/demot/d5_montakoSanaa/obj/Debug/net8.0/d5_montakoSanaa.csproj.CoreCompileInputs.cache
+/media/oliverkanden/Windows/kurssit/Algoritmit1/demot/d5_montakoSanaa/obj/Debug/net8.0/d5_montakoSanaa.sourcelink.json
+/media/oliverkanden/Windows/kurssit/Algoritmit1/demot/d5_montakoSanaa/obj/Debug/net8.0/d5_montakoSanaa.dll
+/media/oliverkanden/Windows/kurssit/Algoritmit1/demot/d5_montakoSanaa/obj/Debug/net8.0/refint/d5_montakoSanaa.dll
+/media/oliverkanden/Windows/kurssit/Algoritmit1/demot/d5_montakoSanaa/obj/Debug/net8.0/d5_montakoSanaa.pdb
+/media/oliverkanden/Windows/kurssit/Algoritmit1/demot/d5_montakoSanaa/obj/Debug/net8.0/d5_montakoSanaa.genruntimeconfig.cache
+/media/oliverkanden/Windows/kurssit/Algoritmit1/demot/d5_montakoSanaa/obj/Debug/net8.0/ref/d5_montakoSanaa.dll

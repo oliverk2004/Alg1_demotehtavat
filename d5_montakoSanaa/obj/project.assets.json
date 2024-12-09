@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/media/oliverkanden/Windows/kurssit/Algoritmit1/demot/d1_kokonaislukuTaulukko/d1_kokonaislukuTaulukko.csproj",
-      "projectName": "d1_kokonaislukuTaulukko",
-      "projectPath": "/media/oliverkanden/Windows/kurssit/Algoritmit1/demot/d1_kokonaislukuTaulukko/d1_kokonaislukuTaulukko.csproj",
+      "projectUniqueName": "/media/oliverkanden/Windows/kurssit/Algoritmit1/demot/d5_montakoSanaa/d5_montakoSanaa.csproj",
+      "projectName": "d5_montakoSanaa",
+      "projectPath": "/media/oliverkanden/Windows/kurssit/Algoritmit1/demot/d5_montakoSanaa/d5_montakoSanaa.csproj",
       "packagesPath": "/home/oliverkanden/.nuget/packages/",
-      "outputPath": "/media/oliverkanden/Windows/kurssit/Algoritmit1/demot/d1_kokonaislukuTaulukko/obj/",
+      "outputPath": "/media/oliverkanden/Windows/kurssit/Algoritmit1/demot/d5_montakoSanaa/obj/",
       "projectStyle": "PackageReference",
       "UsingMicrosoftNETSdk": false,
       "configFilePaths": [

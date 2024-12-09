@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/media/oliverkanden/Windows/kurssit/Algoritmit1/demot/d4_randomTaulukko/d4_randomTaulukko.csproj": {}
+    "/media/oliverkanden/Windows/kurssit/Algoritmit1/demot/d5_montakoSanaa/d5_montakoSanaa.csproj": {}
   },
   "projects": {
-    "/media/oliverkanden/Windows/kurssit/Algoritmit1/demot/d4_randomTaulukko/d4_randomTaulukko.csproj": {
+    "/media/oliverkanden/Windows/kurssit/Algoritmit1/demot/d5_montakoSanaa/d5_montakoSanaa.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/media/oliverkanden/Windows/kurssit/Algoritmit1/demot/d4_randomTaulukko/d4_randomTaulukko.csproj",
-        "projectName": "d4_randomTaulukko",
-        "projectPath": "/media/oliverkanden/Windows/kurssit/Algoritmit1/demot/d4_randomTaulukko/d4_randomTaulukko.csproj",
+        "projectUniqueName": "/media/oliverkanden/Windows/kurssit/Algoritmit1/demot/d5_montakoSanaa/d5_montakoSanaa.csproj",
+        "projectName": "d5_montakoSanaa",
+        "projectPath": "/media/oliverkanden/Windows/kurssit/Algoritmit1/demot/d5_montakoSanaa/d5_montakoSanaa.csproj",
         "packagesPath": "/home/oliverkanden/.nuget/packages/",
-        "outputPath": "/media/oliverkanden/Windows/kurssit/Algoritmit1/demot/d4_randomTaulukko/obj/",
+        "outputPath": "/media/oliverkanden/Windows/kurssit/Algoritmit1/demot/d5_montakoSanaa/obj/",
         "projectStyle": "PackageReference",
         "UsingMicrosoftNETSdk": false,
         "configFilePaths": [
