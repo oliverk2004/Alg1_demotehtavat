@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("d1_kokonaislukuTaulukko")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0ce321a07095ceca36fbacf05db4524eedb34f8f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1441d59e6df04640fc67b9e81f9230a49614e315")]
 [assembly: System.Reflection.AssemblyProductAttribute("d1_kokonaislukuTaulukko")]
 [assembly: System.Reflection.AssemblyTitleAttribute("d1_kokonaislukuTaulukko")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
